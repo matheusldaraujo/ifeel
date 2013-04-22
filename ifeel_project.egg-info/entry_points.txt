@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = ifeel_project:main
+      [console_scripts]
+      initialize_ifeel_project_db = ifeel_project.scripts.initializedb:main
+      
