@@ -75,7 +75,7 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit" style="height:130px;">
-        <h1>iFeel</h1><img src="../static/img/twitter-icon-500.png" alt="some_text" style="max-height: 100px;float: right;margin-top:-100px;">
+        <h1>iFeel</h1><img src="../static/img/twitter-icon-500.png" alt="twitter-icon" style="max-height: 100px;float: right;margin-top:-100px;">
         <form>
           <span class="icon-search"></span><input class="span8" type="text" placeholder="Cole o caminho de um twitter" />
         </form>
@@ -101,7 +101,7 @@
         <div class="thumbnail span3" style="margin-right: 50px;
          background-color: rgba(0, 0, 0, 0.0784314);
          box-shadow: rgb(0, 0, 0) 0px 1px 27px 0px;">
-          <h2>Parnas-t³</h2>
+          <h2>Parnas-t³</h2><img src="../static/img/medal-235.png" alt="twitter-icon" style="max-height: 30px;float: right;margin-top:-60px;z-index:100">
           <div id="parnas-t" style="width:100%; height:400px;"></div>
           <p>Interessante colocar algo sobre os critérios que o métodośe baseia.</p>
           <p><a class="btn" href="#">View details &raquo;</a></p>
